@@ -1,0 +1,6 @@
+{
+	"browserName" : "chrome",
+	"enableVNC" : true,
+	"args" : ["--headless" ,"--disable-gpu" ,"--window-size=1920,1200"]
+}
+
